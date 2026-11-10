@@ -1,0 +1,25 @@
+Nome: CACHOEIRA DO SUL
+Codigo Estacao: B822
+Latitude: -30.01833332
+Longitude: -52.93888888
+Altitude: 73
+Situacao: Operante
+Data Inicial: 2025-09-16
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;null;null;
+2025-10-31;null;null;null;19.9;8.4;null;
+2025-11-30;null;55.6;1005.4;21.7;8.9;3.4;
+2025-12-31;null;154.2;1001.1;24.9;9.5;2.5;
+2026-01-31;null;95.1;1004.9;24.8;7.9;2.6;
+2026-02-28;null;null;1003.7;24.8;7.8;2.7;
+2026-03-31;null;51;1004.6;24.5;6.9;2.7;
+2026-04-30;null;111.6;1006.7;21.1;6.9;2.5;
+2026-05-31;4;56.4;1013.9;14.2;14.8;2.5;
+2026-06-30;12;80.9;1013.2;12.8;6.2;2;
+2026-07-31;11;194.7;1009.2;15.4;8.6;2.6;
+2026-08-31;16;162.8;1008.8;15.7;8.7;3.1;
+2026-09-30;null;null;null;null;null;null;
+

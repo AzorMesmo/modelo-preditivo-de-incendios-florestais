@@ -1,0 +1,25 @@
+Nome: DIANOPOLIS
+Codigo Estacao: A038
+Latitude: -11.59444444
+Longitude: -46.84722221
+Altitude: 727.87
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;null;null;
+2025-10-31;null;null;null;null;null;null;
+2025-11-30;7;null;null;null;6.2;null;
+2025-12-31;11;null;930.2;23.8;7.3;2.1;
+2026-01-31;13;191.2;930.9;24.4;6.6;2.5;
+2026-02-28;8;null;931.3;23.8;8.1;2.3;
+2026-03-31;null;0;930.3;23.9;9.4;2.2;
+2026-04-30;null;null;931.1;24.7;8;2.4;
+2026-05-31;null;null;933.1;25.1;8.5;3.3;
+2026-06-30;null;null;933.9;25.1;9.1;3.4;
+2026-07-31;null;null;933.5;25.8;10;3.3;
+2026-08-31;null;null;933;27.4;9.4;3.4;
+2026-09-30;null;null;null;null;null;null;
+

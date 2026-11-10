@@ -1,0 +1,25 @@
+Nome: MORRINHOS
+Codigo Estacao: A003
+Latitude: -17.74499999
+Longitude: -49.10166666
+Altitude: 751.09
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;2;51.4;931.3;25.1;7.1;1.9;
+2025-10-31;10;43.8;929.9;25.6;7;2.3;
+2025-11-30;10;171.2;927.9;25.4;7.8;1.6;
+2025-12-31;20;200.2;927.5;24.6;8.3;1.6;
+2026-01-31;22;385;928.8;23.6;8;1.6;
+2026-02-28;21;303;928.2;24;6.3;2;
+2026-03-31;17;159.6;928.2;24;6.1;1.4;
+2026-04-30;1;null;null;null;null;null;
+2026-05-31;null;null;null;null;null;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+

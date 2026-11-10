@@ -1,0 +1,25 @@
+Nome: COTRIGUACU
+Codigo Estacao: A919
+Latitude: -9.90638888
+Longitude: -58.57222221
+Altitude: 265
+Situacao: Pane
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;10;123;982.2;26.2;4.8;1.1;
+2025-10-31;14;222.8;980.7;26;4.9;1.1;
+2025-11-30;20;244;979.6;26.1;6.5;1.1;
+2025-12-31;22;422;979.9;24.9;4.2;1.1;
+2026-01-31;21;371.4;981.1;25;3.4;1.1;
+2026-02-28;18;null;981.7;24.9;4.7;1.1;
+2026-03-31;5;null;null;null;null;null;
+2026-04-30;null;null;null;null;null;null;
+2026-05-31;null;null;null;null;null;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+

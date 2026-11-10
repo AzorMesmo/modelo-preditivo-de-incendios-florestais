@@ -1,0 +1,23 @@
+Nome: CARAZINHO
+Codigo Estacao: B842
+Latitude: -28.32333332
+Longitude: -52.81444444
+Altitude: 581
+Situacao: Operante
+Data Inicial: 2025-11-30
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-11-30;null;null;null;null;null;null;
+2025-12-31;null;null;null;null;null;null;
+2026-01-31;null;null;null;null;null;null;
+2026-02-28;null;null;null;null;null;null;
+2026-03-31;null;128.4;947.4;23.8;10.4;2.9;
+2026-04-30;null;157.8;948.9;20.2;8.7;3;
+2026-05-31;10;null;952.6;14.8;18.2;2.7;
+2026-06-30;14;null;952.7;12.7;19.2;2.7;
+2026-07-31;null;null;null;null;19.6;null;
+2026-08-31;11;null;949.6;15.2;10.7;3.4;
+2026-09-30;1;null;null;null;null;null;
+

@@ -1,0 +1,25 @@
+Nome: ITUIUTABA
+Codigo Estacao: A512
+Latitude: -18.95277777
+Longitude: -49.52499999
+Altitude: 540.08
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;1;1.4;953.7;26.3;7.8;2.2;
+2025-10-31;null;null;952.4;26.3;11.1;2.6;
+2025-11-30;null;null;950.3;25.8;12.5;1.9;
+2025-12-31;null;null;949.7;25.4;6.6;1.2;
+2026-01-31;14;null;951.3;24.4;6.2;1.1;
+2026-02-28;13;null;950.4;null;6.4;1;
+2026-03-31;1;null;null;null;null;null;
+2026-04-30;null;null;null;null;null;null;
+2026-05-31;null;null;null;null;10.3;null;
+2026-06-30;1;null;null;null;8.2;null;
+2026-07-31;1;18.4;955.4;21.1;9.4;1.7;
+2026-08-31;1;5.2;953.8;24.6;10.1;1.6;
+2026-09-30;3;null;null;null;null;null;
+

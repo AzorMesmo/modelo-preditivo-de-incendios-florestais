@@ -1,0 +1,25 @@
+Nome: JOSE BONIFACIO
+Codigo Estacao: A735
+Latitude: -21.08555555
+Longitude: -49.92027777
+Altitude: 408.35
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;1;3.4;968.6;24.9;8.3;2.8;
+2025-10-31;13;115.6;967.3;24.8;6.9;2.8;
+2025-11-30;12;108.8;964.9;24.3;7;2.1;
+2025-12-31;13;185;null;null;7.3;null;
+2026-01-31;null;null;965.3;25.4;6.7;2;
+2026-02-28;null;null;964.1;25.3;5.9;1.6;
+2026-03-31;null;null;964.8;24.9;6.2;1.6;
+2026-04-30;null;null;966.6;24.4;5;1.6;
+2026-05-31;null;null;970.2;20.9;6.5;1.6;
+2026-06-30;null;null;971;18.4;4.8;1.6;
+2026-07-31;null;null;970;19.8;5.9;1.8;
+2026-08-31;null;null;968.2;22.9;6.3;2;
+2026-09-30;null;null;null;null;null;null;
+

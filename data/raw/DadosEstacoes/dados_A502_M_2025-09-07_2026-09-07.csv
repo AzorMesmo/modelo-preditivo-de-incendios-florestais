@@ -1,0 +1,25 @@
+Nome: BARBACENA
+Codigo Estacao: A502
+Latitude: -21.22833332
+Longitude: -43.76777777
+Altitude: 1168.76
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;7;26.4;891.3;17.4;null;null;
+2025-10-31;9;68.8;889.9;18.4;null;null;
+2025-11-30;14;144.2;886.6;19.2;null;null;
+2025-12-31;21;226.2;885.7;21.3;null;null;
+2026-01-31;22;185.6;887.4;19.7;null;null;
+2026-02-28;21;229.4;886.1;20.9;null;null;
+2026-03-31;13;232.2;886.8;20;null;null;
+2026-04-30;12;92.6;888.5;19.2;3.6;null;
+2026-05-31;14;30.6;890.9;17.8;5.1;1.6;
+2026-06-30;13;46;891.2;15.8;4.5;1.7;
+2026-07-31;4;null;null;15.8;6.5;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+

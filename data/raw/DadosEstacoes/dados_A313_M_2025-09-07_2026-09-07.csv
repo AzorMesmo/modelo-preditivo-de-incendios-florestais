@@ -1,0 +1,25 @@
+Nome: CAMPINA GRANDE
+Codigo Estacao: A313
+Latitude: -7.22555554
+Longitude: -35.90472222
+Altitude: 546.17
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;13;61.6;954.9;22.4;6.4;3.3;
+2025-10-31;6;17.2;953.5;23.4;7;3.8;
+2025-11-30;null;null;null;null;6.3;null;
+2025-12-31;6;null;951.1;24.9;6.8;4.1;
+2026-01-31;8;null;951.6;25.1;6.8;3.8;
+2026-02-28;4;null;null;null;7.4;null;
+2026-03-31;null;null;null;null;5.9;null;
+2026-04-30;null;null;null;null;5.2;null;
+2026-05-31;8;null;953;23;4.8;2.2;
+2026-06-30;14;null;954.3;22.5;5.3;2.3;
+2026-07-31;6;null;954.6;null;5.4;2.6;
+2026-08-31;6;null;954.9;null;5.5;2.9;
+2026-09-30;null;null;null;null;null;null;
+

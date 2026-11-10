@@ -1,0 +1,25 @@
+Nome: MAJOR VIEIRA
+Codigo Estacao: A864
+Latitude: -26.3936111
+Longitude: -50.36333333
+Altitude: 799.58
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;928.3;15.9;10;2.5;
+2025-10-31;null;null;927.1;17.2;8.8;2.8;
+2025-11-30;null;null;923.5;19.3;10;2.7;
+2025-12-31;null;null;921.3;22.2;11.7;2.6;
+2026-01-31;null;null;923.8;21;11;2.3;
+2026-02-28;null;null;922.8;21.8;11;2;
+2026-03-31;null;null;923.8;22;10.2;2;
+2026-04-30;null;null;925.2;18.8;7;2.1;
+2026-05-31;null;null;928;13.7;12.2;1.8;
+2026-06-30;null;null;928.1;11.9;11;1.7;
+2026-07-31;null;null;927;14;11.2;2.1;
+2026-08-31;null;null;926.2;15.6;11.1;2.1;
+2026-09-30;null;null;null;null;null;null;
+

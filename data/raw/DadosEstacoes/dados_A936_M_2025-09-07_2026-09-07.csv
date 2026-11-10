@@ -1,0 +1,25 @@
+Nome: SALTO DO CEU
+Codigo Estacao: A936
+Latitude: -15.12472221
+Longitude: -58.12722221
+Altitude: 300.83
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;978.2;27.2;6.3;1.2;
+2025-10-31;null;null;977.4;26.5;6.4;1.2;
+2025-11-30;null;null;null;null;5;null;
+2025-12-31;null;null;null;null;4.3;null;
+2026-01-31;null;null;null;null;4.8;null;
+2026-02-28;20;null;976.6;25.3;4.1;.8;
+2026-03-31;13;3.6;975.9;25.5;3.1;.7;
+2026-04-30;null;null;977.2;25.8;3;.6;
+2026-05-31;null;null;981;22.2;4.3;.9;
+2026-06-30;null;null;981.1;22.1;3.5;.8;
+2026-07-31;null;null;979.8;23.8;4.1;1;
+2026-08-31;null;null;978.4;26.1;4.9;1.2;
+2026-09-30;null;null;null;null;null;null;
+

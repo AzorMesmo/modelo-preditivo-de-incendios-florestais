@@ -1,0 +1,25 @@
+Nome: PASSOS
+Codigo Estacao: A516
+Latitude: -20.74527777
+Longitude: -46.63388888
+Altitude: 781.7
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;4;40;929.2;22.3;7;1.7;
+2025-10-31;10;62.4;927.7;22.6;10.1;1.6;
+2025-11-30;15;179.4;924.9;22.7;8.2;1;
+2025-12-31;19;302.4;924;23.4;6.9;.8;
+2026-01-31;19;335.2;925.7;22.1;6.3;1.1;
+2026-02-28;20;252.8;924.6;22.8;7.4;.4;
+2026-03-31;14;134;925;22.9;6.2;.5;
+2026-04-30;8;60.4;927;22;4.6;.5;
+2026-05-31;null;null;null;null;null;null;
+2026-06-30;2;null;null;null;null;null;
+2026-07-31;4;24.2;930.1;17.7;null;.6;
+2026-08-31;3;11.4;928.8;21.9;null;null;
+2026-09-30;3;null;null;null;null;null;
+

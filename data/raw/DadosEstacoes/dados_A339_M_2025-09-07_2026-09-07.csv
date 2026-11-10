@@ -1,0 +1,25 @@
+Nome: JAGUARUANA
+Codigo Estacao: A339
+Latitude: -4.83777777
+Longitude: -37.69972221
+Altitude: 12
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;7.3;null;
+2025-10-31;null;null;1008;28.2;7.8;4.5;
+2025-11-30;null;null;1007;null;7.5;4.1;
+2025-12-31;null;null;1006.2;28.3;7.5;4;
+2026-01-31;null;null;null;null;8.1;null;
+2026-02-28;null;null;null;null;7.2;null;
+2026-03-31;null;null;1005.8;null;7.5;2.8;
+2026-04-30;null;null;null;null;6.7;null;
+2026-05-31;null;null;null;null;5.9;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+

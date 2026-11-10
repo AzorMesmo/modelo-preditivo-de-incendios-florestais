@@ -1,0 +1,25 @@
+Nome: PONTES E LACERDA
+Codigo Estacao: A937
+Latitude: -15.32527777
+Longitude: -59.2336111
+Altitude: 272.53
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;null;null;
+2025-10-31;null;null;null;null;null;null;
+2025-11-30;null;null;null;null;null;null;
+2025-12-31;null;null;null;null;null;null;
+2026-01-31;null;null;null;null;null;null;
+2026-02-28;15;null;null;24.8;4.8;null;
+2026-03-31;25;239.8;976.4;25;4.3;.8;
+2026-04-30;20;199.8;977.8;24.9;6.3;.7;
+2026-05-31;3;23.4;981.5;22.6;4.6;1.2;
+2026-06-30;5;5.2;981.6;22.8;4.2;1.2;
+2026-07-31;4;3.4;980.3;24.1;6.1;1.2;
+2026-08-31;4;16.8;979;25.9;5.4;1.2;
+2026-09-30;1;null;null;null;null;null;
+

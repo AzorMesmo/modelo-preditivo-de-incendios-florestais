@@ -1,0 +1,25 @@
+Nome: ERECHIM
+Codigo Estacao: A828
+Latitude: -27.65777777
+Longitude: -52.30583333
+Altitude: 777.08
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;14;204.4;929.4;15.8;7.8;2.4;
+2025-10-31;13;241.8;928.3;17.2;7.1;2.2;
+2025-11-30;6;null;null;19;7.2;null;
+2025-12-31;8;null;null;null;8.7;null;
+2026-01-31;7;null;925.5;22;17.9;2.1;
+2026-02-28;7;null;924.2;22;5.8;2;
+2026-03-31;12;173.7;924.8;22.7;5.9;1.9;
+2026-04-30;11;null;926.5;19.3;6.5;2;
+2026-05-31;9;null;930;15.4;18.7;null;
+2026-06-30;8;null;null;11.9;21.3;null;
+2026-07-31;4;null;null;null;null;null;
+2026-08-31;20;153.3;926.9;15.7;23.9;2.9;
+2026-09-30;1;null;null;null;null;null;
+

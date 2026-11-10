@@ -1,0 +1,25 @@
+Nome: MANICORE
+Codigo Estacao: A133
+Latitude: -5.7886111
+Longitude: -61.28833333
+Altitude: 40.64
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;15;178.6;1006.7;null;null;null;
+2025-10-31;17;158.6;1005.5;null;null;null;
+2025-11-30;14;116.4;1004.5;null;null;null;
+2025-12-31;20;203.2;1004.2;null;null;null;
+2026-01-31;20;223;1005.3;26.2;null;null;
+2026-02-28;23;266.2;1006.1;26;null;null;
+2026-03-31;19;223.8;1004.3;26.6;null;null;
+2026-04-30;24;328.4;1005.2;26.5;null;null;
+2026-05-31;21;130;1007.2;26.6;null;null;
+2026-06-30;14;168.8;1007.7;26.7;null;null;
+2026-07-31;9;57.4;1007;27.4;null;null;
+2026-08-31;8;52.2;1006.2;28.7;null;null;
+2026-09-30;null;null;null;null;null;null;
+

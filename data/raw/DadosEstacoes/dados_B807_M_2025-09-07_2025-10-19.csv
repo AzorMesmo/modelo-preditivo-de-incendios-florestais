@@ -1,0 +1,14 @@
+Nome: PORTO ALEGRE- BELEM NOVO
+Codigo Estacao: B807
+Latitude: -30.1861111
+Longitude: -51.17805554
+Altitude: 3.3
+Situacao: Desativada
+Data Inicial: 2025-09-07
+Data Final: 2025-10-19
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;13;176.2;1018.2;17.2;5.3;1.9;
+2025-10-31;7;null;null;null;null;null;
+

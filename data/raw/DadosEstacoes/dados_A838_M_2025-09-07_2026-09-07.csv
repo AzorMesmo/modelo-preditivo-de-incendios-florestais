@@ -1,0 +1,25 @@
+Nome: CAMAQUA
+Codigo Estacao: A838
+Latitude: -30.80805555
+Longitude: -51.83416666
+Altitude: 92.3
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;null;null;
+2025-10-31;3;null;null;null;null;null;
+2025-11-30;8;124.4;1003.2;19.7;16.9;1.4;
+2025-12-31;14;334.4;998.6;23.5;3.9;1;
+2026-01-31;10;62.3;1002.4;23.3;4;1;
+2026-02-28;11;21;1001.2;23.7;18.5;null;
+2026-03-31;17;72.6;1002.1;23.2;12.4;.9;
+2026-04-30;13;74.9;1003.6;20;16.6;1.1;
+2026-05-31;12;76.1;1008.8;14.6;null;4.7;
+2026-06-30;21;96.6;1009.4;12.1;null;5.4;
+2026-07-31;15;205.4;1006.1;14.5;null;null;
+2026-08-31;11;null;null;15;15.1;null;
+2026-09-30;null;null;null;null;null;null;
+

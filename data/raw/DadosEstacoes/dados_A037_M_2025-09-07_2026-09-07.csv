@@ -1,0 +1,25 @@
+Nome: SILVANIA
+Codigo Estacao: A037
+Latitude: -16.67972221
+Longitude: -48.61805554
+Altitude: 952
+Situacao: Pane
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;24;3.7;.8;
+2025-10-31;null;null;908.7;24.3;2.7;.8;
+2025-11-30;null;null;null;24.2;2.6;.7;
+2025-12-31;null;null;906.6;22.9;3.5;.6;
+2026-01-31;null;null;null;22.6;2.6;null;
+2026-02-28;null;null;null;null;2.1;null;
+2026-03-31;null;null;null;null;null;null;
+2026-04-30;null;null;null;null;null;null;
+2026-05-31;null;null;null;null;null;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+

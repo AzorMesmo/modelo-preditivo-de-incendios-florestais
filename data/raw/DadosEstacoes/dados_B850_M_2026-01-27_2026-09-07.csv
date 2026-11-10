@@ -1,0 +1,21 @@
+Nome: ITAQUI
+Codigo Estacao: B850
+Latitude: -29.15555555
+Longitude: -56.55555555
+Altitude: 71
+Situacao: Operante
+Data Inicial: 2026-01-27
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2026-01-31;null;null;null;null;null;null;
+2026-02-28;null;null;null;null;null;null;
+2026-03-31;null;63.8;1003.5;24.8;9.2;2.9;
+2026-04-30;null;35.7;1005.5;21.4;6.7;2.6;
+2026-05-31;3;null;null;15.6;13.6;null;
+2026-06-30;6;null;null;12.2;7;null;
+2026-07-31;7;124.6;1006.3;17.1;12;3.6;
+2026-08-31;11;90.5;1006.8;16.3;9.9;3.3;
+2026-09-30;null;null;null;null;null;null;
+

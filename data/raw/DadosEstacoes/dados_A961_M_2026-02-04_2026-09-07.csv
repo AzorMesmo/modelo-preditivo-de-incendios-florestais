@@ -1,0 +1,20 @@
+Nome: MIRASSOL D'OESTE
+Codigo Estacao: A961
+Latitude: -15.64027777
+Longitude: -58.07888888
+Altitude: 263
+Situacao: Operante
+Data Inicial: 2026-02-04
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2026-02-28;18;null;null;25.7;6.2;null;
+2026-03-31;24;227.2;979.3;26;6.1;1.5;
+2026-04-30;13;136.6;980.6;26.4;5.9;1.3;
+2026-05-31;7;112.6;984.4;23.4;8.3;2.1;
+2026-06-30;6;11;984.6;23.2;6.4;1.7;
+2026-07-31;2;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;2;null;null;null;null;null;
+

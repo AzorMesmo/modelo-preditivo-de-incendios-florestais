@@ -1,0 +1,25 @@
+Nome: LINS
+Codigo Estacao: A727
+Latitude: -21.66611111
+Longitude: -49.73472221
+Altitude: 460.65
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;963.7;25.5;8.5;2;
+2025-10-31;11;115.4;962.3;24.5;7;2;
+2025-11-30;14;156.6;959.9;24.4;8.9;1.6;
+2025-12-31;13;236;958.3;26.5;5.9;1.4;
+2026-01-31;10;null;null;25.6;6.1;null;
+2026-02-28;2;null;null;null;4.8;null;
+2026-03-31;null;null;null;null;4;null;
+2026-04-30;null;null;null;null;4.1;null;
+2026-05-31;null;null;null;null;null;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;4.4;null;
+2026-09-30;null;null;null;null;null;null;
+

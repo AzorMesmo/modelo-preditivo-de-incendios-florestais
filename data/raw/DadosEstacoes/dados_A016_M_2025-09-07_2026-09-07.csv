@@ -1,0 +1,25 @@
+Nome: JATAI
+Codigo Estacao: A016
+Latitude: -17.9236111
+Longitude: -51.71749999
+Altitude: 670.08
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;3;34.4;939.5;25.8;7.2;1.7;
+2025-10-31;9;23;938.2;25.4;10.3;1.9;
+2025-11-30;13;123.8;936.7;24.8;8.4;1.7;
+2025-12-31;20;null;935.6;24.1;6.2;1.9;
+2026-01-31;5;null;null;null;6.5;null;
+2026-02-28;15;null;null;23.8;6;null;
+2026-03-31;20;231.6;936.7;24.1;6.4;1.4;
+2026-04-30;9;54.2;938.4;23.9;5.7;.9;
+2026-05-31;6;13.6;941.3;21.2;6.9;1.1;
+2026-06-30;11;29.2;942;19.8;5.8;1;
+2026-07-31;1;11.8;941;21.4;5.6;1;
+2026-08-31;null;null;null;24.3;7.1;null;
+2026-09-30;null;null;null;null;null;null;
+

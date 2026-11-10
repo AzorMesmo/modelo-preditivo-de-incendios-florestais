@@ -1,0 +1,25 @@
+Nome: DIONISIO CERQUEIRA
+Codigo Estacao: A848
+Latitude: -26.286562
+Longitude: -53.633114
+Altitude: 807.54
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;1;null;null;null;null;null;
+2025-10-31;1;null;null;null;null;null;
+2025-11-30;11;154;921.4;20.9;null;null;
+2025-12-31;19;301.2;919.6;22.4;null;null;
+2026-01-31;11;61.6;922;22.6;null;null;
+2026-02-28;13;130.6;920.9;23.8;null;null;
+2026-03-31;9;143.4;921.5;23.9;null;null;
+2026-04-30;12;121.6;923.1;20.4;null;null;
+2026-05-31;18;156.2;926.2;15.3;null;0;
+2026-06-30;17;231.8;926.1;13.2;null;null;
+2026-07-31;12;296;924.1;16.1;null;null;
+2026-08-31;17;137.6;923.4;17.8;null;null;
+2026-09-30;4;null;null;null;null;null;
+

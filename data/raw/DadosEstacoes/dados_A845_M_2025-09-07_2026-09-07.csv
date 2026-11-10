@@ -1,0 +1,25 @@
+Nome: BOM JARDIM DA SERRA - MORRO DA IGREJA
+Codigo Estacao: A845
+Latitude: -28.12694443
+Longitude: -49.47972221
+Altitude: 1790.38
+Situacao: Pane
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;null;null;
+2025-10-31;null;null;null;null;null;null;
+2025-11-30;null;null;null;null;null;null;
+2025-12-31;null;null;null;null;null;null;
+2026-01-31;null;null;null;null;null;null;
+2026-02-28;null;null;null;null;null;null;
+2026-03-31;null;null;null;null;null;null;
+2026-04-30;null;null;null;null;null;null;
+2026-05-31;null;null;null;null;null;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+

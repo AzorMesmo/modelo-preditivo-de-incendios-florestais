@@ -1,0 +1,24 @@
+Nome: CAPAO DA CANOA
+Codigo Estacao: B832
+Latitude: -29.68527777
+Longitude: -49.99305555
+Altitude: 0
+Situacao: Operante
+Data Inicial: 2025-10-12
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-10-31;null;null;null;null;null;null;
+2025-11-30;null;null;null;19.7;11.3;null;
+2025-12-31;null;239.7;1008.9;23.4;9.8;3.6;
+2026-01-31;null;107.6;1012.3;24;10.8;3.2;
+2026-02-28;null;177.7;1011.1;24.6;8.5;3.1;
+2026-03-31;null;72.4;1012;23.9;7.9;3.1;
+2026-04-30;null;51.3;1013.5;21.5;9.5;2.8;
+2026-05-31;12;107.3;null;16.4;7.7;2.7;
+2026-06-30;10;55.2;1017.9;13.6;7.8;2.6;
+2026-07-31;14;206.9;1015.9;15.6;11.5;3.2;
+2026-08-31;14;168.8;1015.8;16.2;12;3.5;
+2026-09-30;4;null;null;null;null;null;
+

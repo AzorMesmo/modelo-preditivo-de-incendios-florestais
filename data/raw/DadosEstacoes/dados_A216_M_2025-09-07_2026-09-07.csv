@@ -1,0 +1,25 @@
+Nome: SAO FELIX DO XINGU
+Codigo Estacao: A216
+Latitude: -6.63972221
+Longitude: -51.95694444
+Altitude: 211
+Situacao: Pane
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;11;96.2;990.8;28.3;9.6;1.9;
+2025-10-31;9;125.6;989.8;27.4;8;1.8;
+2025-11-30;16;245.4;988.9;26.9;8.9;1.7;
+2025-12-31;16;null;null;25.6;6.4;null;
+2026-01-31;null;null;null;null;null;null;
+2026-02-28;null;null;null;null;null;null;
+2026-03-31;7;null;null;null;null;null;
+2026-04-30;16;null;null;26.4;null;null;
+2026-05-31;2;null;null;null;null;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+

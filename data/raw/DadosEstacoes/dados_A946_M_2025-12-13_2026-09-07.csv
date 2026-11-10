@@ -1,0 +1,22 @@
+Nome: MARCELANDIA
+Codigo Estacao: A946
+Latitude: -11.08499999
+Longitude: -54.51388888
+Altitude: 291
+Situacao: Operante
+Data Inicial: 2025-12-13
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-12-31;null;null;null;null;null;null;
+2026-01-31;null;null;null;null;null;null;
+2026-02-28;22;null;976.6;24.9;3.5;.9;
+2026-03-31;22;177.6;975.2;25.6;3.3;null;
+2026-04-30;5;null;null;26;null;null;
+2026-05-31;null;null;978.2;25.3;null;null;
+2026-06-30;4;4.4;978.8;24.9;null;null;
+2026-07-31;2;18;978.2;24.9;null;null;
+2026-08-31;1;1.8;977.1;26.1;null;null;
+2026-09-30;6;null;null;null;null;null;
+

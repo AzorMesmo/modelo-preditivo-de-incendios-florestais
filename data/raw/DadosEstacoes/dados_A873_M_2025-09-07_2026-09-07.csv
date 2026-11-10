@@ -1,0 +1,25 @@
+Nome: MORRETES
+Codigo Estacao: A873
+Latitude: -25.50888888
+Longitude: -48.80861111
+Altitude: 50.31
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;null;null;
+2025-10-31;2;null;null;null;null;null;
+2025-11-30;7;null;null;null;null;null;
+2025-12-31;6;null;null;null;null;null;
+2026-01-31;23;206.6;1006;24.1;5.6;.4;
+2026-02-28;20;457.4;1004.5;25;null;null;
+2026-03-31;13;179.6;1006.2;24.4;null;null;
+2026-04-30;13;141.6;1007.8;23.2;null;null;
+2026-05-31;22;206.4;1012.2;18.1;null;null;
+2026-06-30;20;158.6;1012.8;16.9;null;null;
+2026-07-31;18;101;1011.2;17.6;null;null;
+2026-08-31;14;193;1010.3;19.1;null;null;
+2026-09-30;6;null;null;null;null;null;
+

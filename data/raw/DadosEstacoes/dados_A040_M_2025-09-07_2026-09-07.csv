@@ -1,0 +1,25 @@
+Nome: MATEIROS
+Codigo Estacao: A040
+Latitude: -10.43444444
+Longitude: -45.92194443
+Altitude: 791
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;0;0;926;26;10.2;4.5;
+2025-10-31;2;42.6;924.5;26.4;10.9;4.5;
+2025-11-30;12;90.6;923.5;25;12.4;3.4;
+2025-12-31;20;213;923.5;23.4;10.4;2.6;
+2026-01-31;10;60.4;924.3;23.5;8.8;3.1;
+2026-02-28;22;137.8;924.7;22.7;8.6;2.5;
+2026-03-31;11;null;null;null;8.7;null;
+2026-04-30;null;null;null;null;8.7;null;
+2026-05-31;null;null;926.3;23.4;9.8;3.4;
+2026-06-30;null;null;927.2;23.8;8.4;3.3;
+2026-07-31;null;null;926.9;24.4;9.5;3.5;
+2026-08-31;null;null;926.5;26.6;10.6;4.2;
+2026-09-30;1;null;null;null;null;null;
+

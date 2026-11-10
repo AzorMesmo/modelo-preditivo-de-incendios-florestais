@@ -1,0 +1,25 @@
+Nome: SORRISO
+Codigo Estacao: A904
+Latitude: -12.555
+Longitude: -55.72277777
+Altitude: 379.31
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;12;null;null;27.8;8.2;null;
+2025-10-31;10;98.6;968.6;27.9;7;2.1;
+2025-11-30;14;187;967.7;26.7;9.9;null;
+2025-12-31;25;305.8;967.4;24.9;null;null;
+2026-01-31;20;280.8;968.5;25.7;null;null;
+2026-02-28;24;451.4;968.8;25.3;null;null;
+2026-03-31;26;296.6;967.8;25.7;null;null;
+2026-04-30;20;148.8;968.7;26;null;null;
+2026-05-31;1;30.2;971;25.6;null;null;
+2026-06-30;5;28.4;971.6;26.1;null;null;
+2026-07-31;2;.8;970.9;26.7;null;null;
+2026-08-31;1;.8;969.7;29.2;null;null;
+2026-09-30;3;null;null;null;null;null;
+

@@ -1,0 +1,25 @@
+Nome: PASSO FUNDO
+Codigo Estacao: A839
+Latitude: -28.22666666
+Longitude: -52.40361111
+Altitude: 680.67
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;6;null;null;16.7;7.8;null;
+2025-10-31;5;null;null;null;null;null;
+2025-11-30;4;null;null;19;8.1;null;
+2025-12-31;10;null;null;22.9;8.1;null;
+2026-01-31;9;72.4;936.1;22.1;8.9;2.9;
+2026-02-28;6;null;934.4;22.9;7.4;3.1;
+2026-03-31;12;null;null;23.5;7;null;
+2026-04-30;9;null;936.4;20.1;8.3;3;
+2026-05-31;7;null;939.7;13.5;14.2;null;
+2026-06-30;10;43.7;939.5;11.7;19.8;2.9;
+2026-07-31;11;null;null;16.1;20.7;null;
+2026-08-31;15;140.4;936.6;15.2;11.5;3.4;
+2026-09-30;2;null;null;null;null;null;
+

@@ -1,0 +1,19 @@
+Nome: BOM JESUS (INMET)
+Codigo Estacao: B856
+Latitude: -28.66944443
+Longitude: -50.44194444
+Altitude: 1054
+Situacao: Pane
+Data Inicial: 2026-03-02
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2026-03-31;null;null;null;null;null;null;
+2026-04-30;null;null;null;null;null;null;
+2026-05-31;null;null;null;null;8.3;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;7.6;null;
+2026-09-30;null;null;null;null;null;null;
+

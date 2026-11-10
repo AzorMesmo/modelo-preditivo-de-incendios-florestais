@@ -1,0 +1,25 @@
+Nome: SAO LUIS
+Codigo Estacao: A203
+Latitude: -2.52666666
+Longitude: -44.21361111
+Altitude: 54.8
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;3;3;1007.1;27.5;null;null;
+2025-10-31;null;0;1005.6;27.7;null;null;
+2025-11-30;1;.8;1004.8;27.8;null;null;
+2025-12-31;7;75;1004.4;27.5;null;null;
+2026-01-31;6;123.6;1005.1;27.3;null;null;
+2026-02-28;18;208.2;1005.7;26.5;null;null;
+2026-03-31;30;445.8;1004.4;25;null;null;
+2026-04-30;9;190;1004.9;24.5;null;null;
+2026-05-31;1;.6;1006.3;23.7;null;null;
+2026-06-30;null;null;1007.3;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+

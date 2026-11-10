@@ -1,0 +1,25 @@
+Nome: PORTO DE MOZ
+Codigo Estacao: A245
+Latitude: -1.82194443
+Longitude: -52.11166666
+Altitude: 19
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;1010.6;null;null;null;
+2025-10-31;1;null;1009.2;28.3;null;null;
+2025-11-30;3;null;1008.3;28.3;null;null;
+2025-12-31;13;35.6;1008;27.7;null;null;
+2026-01-31;23;202.4;1009;26.9;null;null;
+2026-02-28;null;null;null;null;null;null;
+2026-03-31;null;null;null;null;null;null;
+2026-04-30;null;null;null;null;null;null;
+2026-05-31;null;null;null;null;null;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+

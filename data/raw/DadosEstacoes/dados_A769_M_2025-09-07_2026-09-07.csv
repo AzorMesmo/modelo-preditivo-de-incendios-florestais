@@ -1,0 +1,25 @@
+Nome: CACHOEIRA PAULISTA
+Codigo Estacao: A769
+Latitude: -22.68888888
+Longitude: -45.00555555
+Altitude: 586
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;6.9;null;
+2025-10-31;null;null;null;null;9.3;null;
+2025-11-30;7;null;null;22.4;6.2;null;
+2025-12-31;13;134.6;945.5;24.8;10.3;.6;
+2026-01-31;20;192;947.8;23.2;6.7;.4;
+2026-02-28;21;289.2;946.2;24.1;null;null;
+2026-03-31;15;123;947.5;22.9;null;null;
+2026-04-30;11;67.2;949.3;22.4;null;null;
+2026-05-31;14;105.2;952.3;19.9;null;null;
+2026-06-30;12;61.6;953;17.8;null;null;
+2026-07-31;10;5.6;952.4;18.2;null;null;
+2026-08-31;10;40.8;951.4;20.8;null;null;
+2026-09-30;4;null;null;null;null;null;
+

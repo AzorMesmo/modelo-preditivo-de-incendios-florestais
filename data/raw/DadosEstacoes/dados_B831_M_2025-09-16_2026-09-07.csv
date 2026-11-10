@@ -1,0 +1,25 @@
+Nome: SAO LOURENCO DO SUL
+Codigo Estacao: B831
+Latitude: -31.34055555
+Longitude: -52.01083333
+Altitude: 3
+Situacao: Operante
+Data Inicial: 2025-09-16
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;null;null;
+2025-10-31;null;null;null;null;null;null;
+2025-11-30;null;null;null;null;null;null;
+2025-12-31;null;null;null;null;null;null;
+2026-01-31;null;null;null;null;null;null;
+2026-02-28;null;null;null;null;null;null;
+2026-03-31;null;null;null;null;7.9;null;
+2026-04-30;null;null;1012.7;20.7;10;3.3;
+2026-05-31;6;null;1017.5;15.3;16;3.6;
+2026-06-30;13;null;1018.4;13.5;14.5;4;
+2026-07-31;16;null;1014.7;14.7;19;3.6;
+2026-08-31;13;249.1;1015.5;14.5;17.5;4.1;
+2026-09-30;3;null;null;null;null;null;
+

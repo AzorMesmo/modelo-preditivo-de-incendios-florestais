@@ -1,0 +1,25 @@
+Nome: PATOS
+Codigo Estacao: A321
+Latitude: -7.07972221
+Longitude: -37.27277777
+Altitude: 263.66
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;3;.6;985.3;28;8;4.2;
+2025-10-31;null;null;null;null;8.9;null;
+2025-11-30;null;null;null;null;7.2;null;
+2025-12-31;null;null;null;null;7.2;null;
+2026-01-31;null;null;null;null;7.3;null;
+2026-02-28;null;null;null;null;8.5;null;
+2026-03-31;null;null;null;null;7.7;null;
+2026-04-30;null;null;null;null;5.8;null;
+2026-05-31;null;null;null;null;6.5;null;
+2026-06-30;null;null;null;null;6.6;null;
+2026-07-31;null;null;null;null;7.4;null;
+2026-08-31;null;null;null;null;6.9;null;
+2026-09-30;null;null;null;null;null;null;
+

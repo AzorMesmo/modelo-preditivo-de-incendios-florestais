@@ -1,0 +1,25 @@
+Nome: HERVAL
+Codigo Estacao: B826
+Latitude: -32.01277777
+Longitude: -53.40305555
+Altitude: 331
+Situacao: Operante
+Data Inicial: 2025-09-16
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;null;null;null;null;
+2025-10-31;null;44.7;978;16.7;12.3;4.8;
+2025-11-30;null;60.9;974.9;18;11.5;4.6;
+2025-12-31;null;187;970.8;22.2;12.5;4;
+2026-01-31;null;79.1;975;21.1;11.1;4.4;
+2026-02-28;null;93.7;974.3;21.9;9.3;4.1;
+2026-03-31;null;78.6;975.3;20.8;9.5;4.7;
+2026-04-30;null;54;975.7;17.9;15;4.3;
+2026-05-31;12;95.6;979.7;12.3;15.6;4.2;
+2026-06-30;15;59.8;979.9;10.2;10.2;3.8;
+2026-07-31;17;140;976.8;12.7;11;4.5;
+2026-08-31;11;null;null;12.7;13.5;null;
+2026-09-30;null;null;null;null;null;null;
+

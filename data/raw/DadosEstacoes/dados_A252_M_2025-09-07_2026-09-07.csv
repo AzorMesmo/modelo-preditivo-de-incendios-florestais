@@ -1,0 +1,25 @@
+Nome: DOM ELISEU
+Codigo Estacao: A252
+Latitude: -4.28055554
+Longitude: -47.56388888
+Altitude: 251
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;0;0;983.3;27.7;5.4;2.2;
+2025-10-31;4;38.4;982;27.7;5.2;2.1;
+2025-11-30;5;75.6;981.3;27.4;4.5;1.8;
+2025-12-31;24;75.2;981.1;26;8.4;1.6;
+2026-01-31;null;null;981.8;25.9;6.3;1.7;
+2026-02-28;null;null;982.6;25.1;6.9;1.5;
+2026-03-31;null;null;981.4;25.3;5.3;1.5;
+2026-04-30;null;null;981.8;25.5;5.1;1.4;
+2026-05-31;null;null;983.1;26.1;5.9;1.7;
+2026-06-30;null;null;984.1;26;7.3;1.7;
+2026-07-31;null;null;984;26.3;6;2;
+2026-08-31;null;null;983.7;26.8;5.5;2;
+2026-09-30;null;null;null;null;null;null;
+

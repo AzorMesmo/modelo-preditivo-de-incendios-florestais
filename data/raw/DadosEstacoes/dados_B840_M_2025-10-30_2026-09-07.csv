@@ -1,0 +1,24 @@
+Nome: SOBRADINHO
+Codigo Estacao: B840
+Latitude: -29.39833333
+Longitude: -53.01361111
+Altitude: 379
+Situacao: Operante
+Data Inicial: 2025-10-30
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-10-31;null;null;null;null;null;null;
+2025-11-30;null;null;null;null;null;null;
+2025-12-31;null;null;null;null;null;null;
+2026-01-31;null;null;null;null;null;null;
+2026-02-28;null;null;null;null;null;null;
+2026-03-31;null;null;null;23;5;null;
+2026-04-30;null;null;968.1;20.2;19.5;1.1;
+2026-05-31;4;null;null;null;15.5;null;
+2026-06-30;6;null;972.4;null;null;null;
+2026-07-31;7;null;969.5;null;null;null;
+2026-08-31;13;169.9;969.1;14.5;15.8;3.2;
+2026-09-30;2;null;null;null;null;null;
+

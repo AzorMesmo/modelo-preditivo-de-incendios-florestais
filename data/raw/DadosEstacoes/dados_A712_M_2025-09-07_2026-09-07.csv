@@ -1,0 +1,25 @@
+Nome: IGUAPE
+Codigo Estacao: A712
+Latitude: -24.67166666
+Longitude: -47.54583333
+Altitude: 2.7
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;14;129.8;1019;19.8;null;null;
+2025-10-31;17;199.6;1017.3;20.8;null;null;
+2025-11-30;15;155.6;1013.2;21.6;null;null;
+2025-12-31;12;81.2;null;25.3;6;null;
+2026-01-31;23;241.6;null;25;5.2;null;
+2026-02-28;23;463.2;null;25.7;3.6;null;
+2026-03-31;11;171.2;null;24;null;null;
+2026-04-30;10;61.6;null;23.2;6.5;null;
+2026-05-31;22;156.2;null;18.7;null;null;
+2026-06-30;21;117.6;null;17.4;null;null;
+2026-07-31;15;58.4;null;17.8;5.1;null;
+2026-08-31;21;182;1016.6;19.7;null;null;
+2026-09-30;6;null;null;null;null;null;
+

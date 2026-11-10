@@ -1,0 +1,25 @@
+Nome: EPITACIOLANDIA
+Codigo Estacao: A140
+Latitude: -11.02388888
+Longitude: -68.73527777
+Altitude: 224.5
+Situacao: Operante
+Data Inicial: 2025-09-07
+Data Final: 2026-09-07
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-09-30;null;null;986.9;25.7;4.3;.9;
+2025-10-31;null;null;985.9;25.5;4.6;.9;
+2025-11-30;null;null;984.6;25.6;3.8;.9;
+2025-12-31;null;null;983.4;25.8;3.2;.9;
+2026-01-31;null;null;985;25.6;5.2;.8;
+2026-02-28;null;null;null;null;2.6;null;
+2026-03-31;null;null;983.6;25.7;2.6;.7;
+2026-04-30;null;null;null;null;null;null;
+2026-05-31;null;null;null;null;null;null;
+2026-06-30;null;null;null;null;null;null;
+2026-07-31;null;null;null;null;null;null;
+2026-08-31;null;null;null;null;null;null;
+2026-09-30;null;null;null;null;null;null;
+
